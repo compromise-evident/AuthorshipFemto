@@ -33,7 +33,7 @@ for every authentication event meaning information source can be trusted. Uses:
 ![](https://github.com/compromise-evident/AuthorshipFemto/blob/main/DocumentationSnippet.png)
 
 ------------------------------------------------------------------------------
-## Your fluid number retained by the verifying party:
+# Your fluid number retained by the verifying party:
 
 ```text
 k`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
