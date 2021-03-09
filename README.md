@@ -36,7 +36,7 @@ for every authentication event meaning information source can be trusted. Uses:
 # Your number:
 
 ```text
-#`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
+k`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
 ```
 
 ------------------------------------------------------------------------------
