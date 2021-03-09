@@ -24,11 +24,7 @@ for every authentication event meaning information source can be trusted. Uses:
  * Voter fraud prevention.
 
 ------------------------------------------------------------------------------
-Auditing in the browser? https://coliru.stacked-crooked.com/a/3aeed31b628cac54
-
-Proof: https://github.com/compromise-evident/OTP
-
-(No reversal shortcuts means no inherent solutions.)
+[No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/OTP/blob/main/Perfect%20secrecy%20and%20computational%20difficulty%20proof.pdf) [Auditing in the browser?](https://coliru.stacked-crooked.com/a/3aeed31b628cac54)
 
 ------------------------------------------------------------------------------
 
