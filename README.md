@@ -28,6 +28,8 @@ Auditing in the browser? https://coliru.stacked-crooked.com/a/3aeed31b628cac54
 
 Proof: https://github.com/compromise-evident/OTP
 
+(No reversal shortcuts means no inherent solutions.)
+
 ------------------------------------------------------------------------------
 
 ## How it works; missing information is information.
