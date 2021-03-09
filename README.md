@@ -32,6 +32,6 @@ Proof: https://github.com/compromise-evident/OTP
 
 ------------------------------------------------------------------------------
 
-## How it works; missing information is information.
+# How it works; missing information is information.
 
 ![](https://github.com/compromise-evident/AuthorshipFemto/blob/main/DocumentationSnippet.png)
