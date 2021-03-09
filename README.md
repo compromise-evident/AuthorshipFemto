@@ -25,6 +25,7 @@ for every authentication event meaning information source can be trusted. Uses:
 
 ------------------------------------------------------------------------------
 Auditing in the browser? https://coliru.stacked-crooked.com/a/3aeed31b628cac54
+
 Proof: https://github.com/compromise-evident/OTP
 
 ------------------------------------------------------------------------------
