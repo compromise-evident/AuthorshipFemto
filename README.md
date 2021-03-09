@@ -33,7 +33,16 @@ for every authentication event meaning information source can be trusted. Uses:
 ![](https://github.com/compromise-evident/AuthorshipFemto/blob/main/DocumentationSnippet.png)
 
 ------------------------------------------------------------------------------
-# AuthorshipFemto.public sample file
+# Your number:
+
+```text
+#`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
+```
+
+------------------------------------------------------------------------------
+
+
+# Published per authentication event:
 
 ```text
 AuthorshipFemto.public v1.0.0=
