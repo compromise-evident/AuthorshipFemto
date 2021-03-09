@@ -38,7 +38,7 @@ Proof: https://github.com/compromise-evident/OTP
 
 ------------------------------------------------------------------------------
 # AuthorshipFemto.public sample file
-
+<!---
 AuthorshipFemto.public v1.0.0=
 
 'm^YZBts]f8O",W^nz`qL#yO&/\:q`cYX'x*mG=JDT?zj_B@0! Hrf}jc`E+RO(Q&?*U{S<NEWIo:LOm/$pX06uy2: N'(W"GnO-B
@@ -1049,3 +1049,5 @@ _tNTdR64wKe*ELzXA0ttb]UXK*;l0WtSb>>GL6IMmC`VNx|$/d
 NT<B0H<b9+8#B>\W324I0;SSrMP_N/34JA/:w=u9(`Xp<K`z@{
 HREEsQc4 i,Q3f;viZi;Jv~{yRN9s12`uaTfl|ZZyuH,FJ&%BV q2Iy;t=7Mq~c{l~Ki9-}T6c?2s&e<kM#PS_ T;Pu ,a^7\fM*M
 ,^@K:u4skV*&FfV5eI*F`*7;@eQK+}PI*~DoE1>z?boiq.0Le% dTNWj9?"qE i_L{xG!\0j)K9bBMvX,VzozX!d}}KNB|+>DXT>V
+
+-->
