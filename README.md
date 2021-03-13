@@ -1,4 +1,4 @@
-# A numerical glass vault for all your public messages!
+## 81kB public files can be pasted to and downloaded from stikked.ch
 
 Authorship is computational difficulty and super-flexibility in endless
 cryptographic evidence (publicly-verifiable authorized-only number modification.)
@@ -31,6 +31,10 @@ for every authentication event meaning information source can be trusted. Uses:
 # How it works; missing information is information
 
 ![](https://github.com/compromise-evident/AuthorshipFemto/blob/main/DocumentationSnippet.png)
+
+# Fair trade over any network
+
+![](https://github.com/compromise-evident/AuthorshipFemto/blob/main/FairTradeSnippet.png)
 
 ------------------------------------------------------------------------------
 # Your fluid number retained by the verifying party:
