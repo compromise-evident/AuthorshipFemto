@@ -1,4 +1,4 @@
-## 81kB public text files can be pasted to and downloaded from stikked.ch
+## This femtosecond version of Authorship is for high network traffic & IOT
 
 Authorship is computational difficulty and super-flexibility in endless
 cryptographic evidence (publicly-verifiable authorized-only number modification.)
