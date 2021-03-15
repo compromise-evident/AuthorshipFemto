@@ -1,4 +1,4 @@
-## 81kB public files can be pasted to and downloaded from stikked.ch
+## 81kB public text files can be pasted to and downloaded from stikked.ch
 
 Authorship is computational difficulty and super-flexibility in endless
 cryptographic evidence (publicly-verifiable authorized-only number modification.)
