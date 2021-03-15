@@ -47,7 +47,7 @@ k`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
 ## Published per modification. Once verified, this needs not exist anywhere:
 
 ```text
-AuthorshipFemto.public v1.0.1=
+AuthorshipFemto.public v1.0.2=
 
 'm^YZBts]f8O",W^nz`qL#yO&/\:q`cYX'x*mG=JDT?zj_B@0! Hrf}jc`E+RO(Q&?*U{S<NEWIo:LOm/$pX06uy2: N'(W"GnO-B
 Z[>lk"uWgzA<aE-(d~t!MQK(!$fhkj%wSwEn^Y|9]N5whCBta`
