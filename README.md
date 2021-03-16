@@ -24,7 +24,7 @@ for every authentication event meaning information source can be trusted. Uses:
  * Voter fraud prevention.
 
 
-[No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/OTP/blob/main/Perfect%20secrecy%20and%20computational%20difficulty%20proof.pdf) | [Auditing in the browser?](https://coliru.stacked-crooked.com/a/67f036f4bf5207a3) | [Logo doodler?](https://coliru.stacked-crooked.com/a/5fcb2676a867dedf)
+[No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/OTP/blob/main/Perfect%20secrecy%20and%20computational%20difficulty%20proof.pdf) | [Auditing in the browser?](https://coliru.stacked-crooked.com/a/7f694e245f7eaf7c) | [Logo doodler?](https://coliru.stacked-crooked.com/a/5fcb2676a867dedf)
 
 ------------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ k`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
 ## Published per modification. Once verified, this needs not exist anywhere:
 
 ```text
-AuthorshipFemto.public v1.0.2=
+AuthorshipFemto.public v1.1.0=
 
 'm^YZBts]f8O",W^nz`qL#yO&/\:q`cYX'x*mG=JDT?zj_B@0! Hrf}jc`E+RO(Q&?*U{S<NEWIo:LOm/$pX06uy2: N'(W"GnO-B
 Z[>lk"uWgzA<aE-(d~t!MQK(!$fhkj%wSwEn^Y|9]N5whCBta`
