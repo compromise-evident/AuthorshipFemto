@@ -27,14 +27,9 @@ for every authentication event meaning information source can be trusted. Uses:
 
 [No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/OTP/blob/main/Perfect%20secrecy%20and%20computational%20difficulty%20proof.pdf) | [Auditing in the browser?](https://coliru.stacked-crooked.com/a/7f694e245f7eaf7c) | [Logo doodler?](https://coliru.stacked-crooked.com/a/5fcb2676a867dedf)
 
-* Cryptographer's acknowledgement - You may need to verify that your new number is available
-to the public or verifying party—as you can be censored in some extreme circumstances. Here,
-the verifying party may arrange to modify their number in response and you can rest assured
-that your authentication event has been acknowledged.
+* Cryptographer's acknowledgement - You may need to verify that your new number is available to the public or verifying party—as you can be censored in some extreme circumstances. Here, the verifying party may arrange to modify their number in response and you can rest assured that your authentication event has been acknowledged.
 
-* Authorship would not have been possible without direct inspiration from my personal heroes who
-sacrificed their freedom and demonstrated beautifully the need for endless cryptographic evidence--
-Julian Assange and Edward Snowden--this is for you!
+* Authorship would not have been possible without direct inspiration from my personal heroes who sacrificed their freedom and demonstrated beautifully the need for endless cryptographic evidence--Julian Assange and Edward Snowden--this is for you!
 
 ------------------------------------------------------------------------------
 
