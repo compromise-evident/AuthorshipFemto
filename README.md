@@ -5,7 +5,7 @@
 ## This femtosecond version of Authorship is for high network traffic & IOT
 
 <p align="center">
-  <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Terminal.png">
+  <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Terminal.png">
 </p>
 
 Authorship is computational difficulty and super-flexibility in endless
