@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Graphic.png">
+  <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Graphic.png">
 </p>
 
 ## This femtosecond version of Authorship is for high network traffic & IOT
