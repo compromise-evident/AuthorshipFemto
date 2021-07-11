@@ -10,7 +10,7 @@ You may include an 80-character message per event.
   <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Graphic.png">
 </p>
 
-#### This femtosecond version of Authorship is for high network traffic & IOT (328-bit encryption)
+#### This femtosecond version of Authorship is for high network traffic and IOT devices (328-bit encryption)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Terminal.png">
