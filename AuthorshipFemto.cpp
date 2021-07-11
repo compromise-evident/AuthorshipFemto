@@ -1,4 +1,4 @@
-/// AuthorshipFemto - infinite authentication everywhere.
+/// AuthorshipFemto - infinite authentication everywhere (328-bit encryption.)
 /// Nikolay Valentinovich Repnitskiy - License: WTFPLv2+ (wtfpl.net)
 
 
