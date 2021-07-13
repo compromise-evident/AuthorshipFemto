@@ -41,7 +41,7 @@ for every authentication event meaning information source can be trusted. Uses:
 
 ------------------------------------------------------------------------------
 
-[No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Perfect%20secrecy%20and%20P!%3DNP%20proof.pdf) | [Low-energy scalability proposal.](https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Scalability%20through%20viscosity.pdf) | [Auditing in the browser?](https://coliru.stacked-crooked.com/a/3ac2d2e996ae097e)
+[No reversal shortcuts means no inherent solutions.](https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Perfect%20secrecy%20and%20P!%3DNP%20proof.pdf) | [Low-energy scalability proposal.](https://github.com/compromise-evident/AuthorshipFemto/blob/main/Other/Scalability%20through%20viscosity.pdf) | [Auditing in the browser?](https://coliru.stacked-crooked.com/a/8b5ce0e04ed6e9bc)
 
 * **Cryptographer's acknowledgement** - You may need to verify that your new number is available to the public or verifying party—as you can be censored in some extreme circumstances. Here, the verifying party may arrange to modify their number in response and you can rest assured that your authentication event has been acknowledged.
 * **Skipping through verification with outdated numbers** - here, the proving party had published multiple numbers beforehand. Their main number had changed so many times, public files older than a year for example, have been discarded. Now, those who have not verified since the number publishing, wish to know that each and every modification to this date is what the proving party intended. And so the proving party is asked to modify one of their slower numbers of higher viscosity. The message for that event instructs all verifying parties to overwrite the main number with a new one. Now those catching up have access to periodic verification as if they ran through the entire chain.
@@ -69,7 +69,7 @@ k`<~!}iQ}&8)#%mSkCuCLE2'!M[Pv3*u
 ## Published per modification. Once verified, this needs not exist anywhere:
 
 ```text
-AuthorshipFemto.public v1.1.1=
+AuthorshipFemto.public v2.0.0=
 
 'm^YZBts]f8O",W^nz`qL#yO&/\:q`cYX'x*mG=JDT?zj_B@0! Hrf}jc`E+RO(Q&?*U{S<NEWIo:LOm/$pX06uy2: N'(W"GnO-B
 Z[>lk"uWgzA<aE-(d~t!MQK(!$fhkj%wSwEn^Y|9]N5whCBta`
