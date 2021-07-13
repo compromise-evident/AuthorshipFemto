@@ -1,0 +1,41 @@
+/*	AuthorshipFemto log
+
+
+
+Version 2       Smart contracts and group authorization.   Fully compatible with
+                version 1.1+. In fact, you may remove options  4, 5, and 6  from
+                the source code.  Highly configure-able, free from entanglement.
+                Essentially an Authorship private file is generated collectively
+                over three separate steps where it cannot be modified unless all
+                involved governors agree, and release their portion of the keys.
+                Meanwhile, the number of such functions could have received some
+                value coming from insurance sellers--value is held by governors,
+                then re-allocated based on their collective decision.   Just set
+                testing_mode to true and it's a smooth chronological experience.
+                If testing, run option  4  twice or so--to ensure a sum of  112.
+                For example, first time you are governor number 1 with 12 symbol
+                responsibilities and the second time you are governor number two
+                with 100 symbol responsibilities. Then continue on to option  5.
+                Monday, July 12 2021
+
+Version 1.1.1   Independence from the \r\n fuckery of copy/paste and other OSes.
+                See characters 13 and 10 in ByteOccurrence.cpp in repo: WhatNot.
+                Fully-compatible with previous, upgrade at will.
+                Sunday, June 27 2021
+
+Version 1.1     Added security similar to Authorship. Negligible speed decrease.
+             -> MAJOR CHANGE, incompatible with previous. Use this version.
+                Tuesday, March 16 2021
+
+Version 1.0.2   Oversized identifying properties return "Failed!" not seg fault.
+             -> NOTHING MAJOR,  ALL FILES COMPATIBLE,  USE THIS VERSION AT WILL.
+                Monday, March 15 2021
+
+Version 1.0.1   Added continue; in  else() for non-character detection upon user
+                message entry otherwise  m += 9;  is last before re-detect. This
+                is only an issue if your cat helps you type during modification.
+                Caution: if this else() is encountered in v1 the event continues
+                with shifted number & message--voiding the verif after this one.
+                Don't forget, you can always  publish  multiple numbers at once.
+             -> NOTHING MAJOR,  ALL FILES COMPATIBLE,  USE THIS VERSION AT WILL.
+                Wednesday, March 10 2021 */
